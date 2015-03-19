@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Java 中的并发
-comments: false
+comments: true
 ---
 
 
