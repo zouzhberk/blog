@@ -1,6 +1,6 @@
-username: minixalpha
-baseurl: /StrayBirds
+username: zouzhberk
+baseurl: /blog
 markdown: redcarpet
 safe: false
 pygments: true
-title: 飞鸟集
+title:Berk's Blog
