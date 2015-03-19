@@ -3,4 +3,4 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 pygments: true
-title:Berk's Blog
+title: Berk's Blog
