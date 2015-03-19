@@ -3,7 +3,7 @@
 layout: default
 title: Github Blog 修改提交说明
 comments: false
-show: false
+show: true
 
 ---
 
