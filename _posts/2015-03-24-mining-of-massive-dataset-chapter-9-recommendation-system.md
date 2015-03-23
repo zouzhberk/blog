@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recommendation System
+title: 推荐系统
 comments: false
 published: true
 ---
