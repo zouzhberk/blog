@@ -5,8 +5,7 @@ title: 文章目录
 
 <ul class="post-list">
     {% for post in site.posts %}
-       {{page}}
-        {% if page.published %}
+        {% if post.published %}
             {{ post.date | date: "%F" }} <br>
         {% endif %} 
     {% endfor %}
