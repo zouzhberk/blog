@@ -2,7 +2,6 @@
     layout: default
     title:  Recommendation System 
     comments: false
-    show: true
     published: true
 
 ---
