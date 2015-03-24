@@ -25,5 +25,7 @@ published: true
 
 ### 效用矩阵
 
+|   | HP1 | HP2 | HP3 | TW | SW1 | SW2 | SW3 |
+|:-:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 <div class="ioArea" id="demoRendering">sum_(i=1)^n i^3=((n(n+1))/2)^2</div>
