@@ -1,6 +1,6 @@
 username: zouzhberk
 baseurl: /blog
-markdown: redcarpet
+markdown: kramdown
 safe: false
 pygments: true
 title: Berk's Blog
