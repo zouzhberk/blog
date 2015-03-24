@@ -48,6 +48,6 @@ Fig. 9.1：一个电影评级（1～5级）效用矩阵
 
 $$a^2 + b^2 = c^2$$
 
-$$sum_(i=1)^n i^3=((n(n+1))/2)^2$$
+$$sum_{i=1}^n i^3=((n(n+1))/2)^2$$
 
 <div class="ioArea" id="demoRendering">sum_(i=1)^n i^3=((n(n+1))/2)^2</div>
