@@ -15,6 +15,7 @@ published: true
 
 
 推荐系统使用很多不同的技术，我们将这些系统分成两大类：
+
 - Content-based systems
 - Collaborative filtering systems
 
