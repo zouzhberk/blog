@@ -34,5 +34,7 @@ published: true
 |B  |  5  | 5   |  4  |    |     |     |     |
 |C  |    |     |     |   2 | 4    | 5  |     |
 |D  |     |  3 |     |    |     |     |  3 |
+Fig. 9.1：一个电影评级（1～5级）效用矩阵
+
 
 <div class="ioArea" id="demoRendering">sum_(i=1)^n i^3=((n(n+1))/2)^2</div>
