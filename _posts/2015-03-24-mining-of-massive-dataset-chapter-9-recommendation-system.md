@@ -12,3 +12,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ```
 sum_(i=1)^n i^3=((n(n+1))/2)^2
 ```
+
+		<div class="ioArea" id="demoRendering">
+			`sum_(i=1)^n i^3=((n(n+1))/2)^2`
+		</div>
