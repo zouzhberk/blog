@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 推荐系统
+title: "[译]推荐系统"
 comments: false
 published: true
 ---
