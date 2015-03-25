@@ -14,3 +14,7 @@ git push  origin gh-pages
 ```
 ##在线Pages.
 http://prose.io/#zouzhberk/blog/edit/gh-pages/_posts/2015-03-19-git-pages-easy-usage.md
+
+
+
+http://berk.duoshuo.com/
